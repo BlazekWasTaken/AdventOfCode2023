@@ -86,6 +86,6 @@ foreach (var line in lines)
     }
 }
 
-Console.WriteLine($"Part One: {sum2}");
+Console.WriteLine($"Part Two: {sum2}");
 
 #endregion
